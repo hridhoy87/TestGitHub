@@ -1,2 +1,1 @@
-# TestGitHub
-GitHub Tut
+TestGitHub for showing the bare minimums 
